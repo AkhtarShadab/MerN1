@@ -105,7 +105,7 @@ Uploaded images are stored in the \`uploads/images\` directory. The application 
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request in the repository.
 
-When contributing to this repository, please first discuss the change you wish to make by creating a new issue or contacting the project team members via [email](mailto:team@example.com).
+When contributing to this repository, please first discuss the change you wish to make by creating a new issue or contacting the project team members via [email](mailto:sakn501@gmail.com).
 
 ## Acknowledgements
 
