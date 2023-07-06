@@ -3,6 +3,6 @@
         "DB_USER": "Admim",
         "DB_PASSWORD": "S%40king10",
         "DB_NAME":"App1",
-        "JWT_TOKEN":"supersecret_dont_share";
+        "JWT_TOKEN":"supersecret_dont_share"
     }
 }
